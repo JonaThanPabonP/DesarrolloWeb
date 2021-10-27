@@ -4,7 +4,7 @@ var numero = estudiantes.length;
 while (numero != 0) {
     numero--;
     
-    console.log(estudiantes[numero-3]);
+    console.log(estudiantes[numero]);
 }
 
 // let sumaPares = 0;
