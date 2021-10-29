@@ -1,0 +1,21 @@
+{
+    "NombreGrupo" : "B43",
+    "InicioCurso" : "20 de octubre",
+    "Profesor" : {
+        "Nombre" : "Juan Mariño",
+        "Edad" : 15
+    },
+    "Activo" : true,
+    "Estudiantes" : [
+        {
+            "Nombre" : "Carolina",
+            "ID": 819723,
+            "CursosAprobados" : ["Java", "Python"] 
+        },
+        {
+            "Nombre" : "Alexander",
+            "ID" : 897234,
+            "CursosAprobados" : ["Java", "Desarrollo Software"]
+        }
+    ]
+}

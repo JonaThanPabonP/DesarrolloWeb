@@ -1,17 +1,22 @@
 var cadena = "TextoSuperLargo";
+cadena = cadena.toLowerCase();
 var caracter = "a";
-var pos = 0;
+caracter = caracter.toLowerCase();
+var pos;
+var existe = false;
+var arreglo = [];
 
-for(car in cadena){
+for(pos = 0; pos<cadena.length; pos++){
     
-    console.log('Las posiciones son:');
-    if(car === caracter){
-        console.log(pos);
+    if(caracter === cadena[pos]){
+        arreglo.push(pos);
     }
-    pos++;
+}
 
-    // console.log('No existe');
-    
+if (arreglo.length>0) {
+    console.log("Las posiciones son: ",arreglo);
+}else{
+    console.log('No existe');
 }
 
 if(cadena.length > 10){

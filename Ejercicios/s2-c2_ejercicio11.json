@@ -1,0 +1,19 @@
+{
+    "Paises" : [
+        {
+            "Nombre" : "Alemania",
+            "Moneda": "Euro",
+            "Poblacion" : 	83149300
+        },
+        {
+            "Nombre" : "Canadá",
+            "Moneda" : "Dólar Canadiense",
+            "Poblacion" : 38246108
+        },
+        {
+            "Nombre" : "India",
+            "Moneda": "Rupia India",
+            "Poblacion" : 1372065957
+        }
+    ]
+}
