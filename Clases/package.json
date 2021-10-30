@@ -1,0 +1,17 @@
+{
+  "name": "b43",
+  "version": "1.0.0",
+  "description": "Ejemplo1 de npm",
+  "main": "s1_c4-ejercicios.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node s2_c3-promesas.js",
+    "asin": "node s2_c2-asincronos.js"
+  },
+  "keywords": [
+    "asincronismo",
+    "mintic"
+  ],
+  "author": "JonathanPabon",
+  "license": "ISC"
+}
