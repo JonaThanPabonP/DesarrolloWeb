@@ -1,17 +1,16 @@
 {
-  "name": "clases",
+  "name": "s2-c4",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "s2-c4_ejercicio2.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
-    "entrada": "nodemon entrada.js"
+    "start": "nodemon index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "is-even": "^1.0.0"
+    "console-table-printer": "^2.10.0"
   }
 }
